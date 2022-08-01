@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">almecenacion interna</string>
+    <string name="fecha">Fecha:</string>
+    <string name="edit">Ingrese la fecha</string>
+    <string name="boton1">Guadar</string>
+    <string name="boton2">Recuperar</string>
+</resources>
